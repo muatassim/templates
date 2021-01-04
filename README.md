@@ -1,4 +1,4 @@
-# tstests 
+# Templates  
 
 ## Setup
 To get started, ensure that you have *at least* Node v10 installed. You can verify what version you have installed by running 
